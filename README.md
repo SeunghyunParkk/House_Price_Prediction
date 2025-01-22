@@ -75,3 +75,9 @@ The **multi-task learning model** was built using **PyTorch Lightning** with the
 - Incorporate external datasets for enhanced learning.
 - Experiment with transformer-based architectures for further improvements.
 - Explore additional clustering methods for house categorization.
+
+---
+
+## Contact
+**Seunghyun Park**  
+For any inquiries, feel free to reach out via email: seunghyun.park@mail.mcgill.ca.
